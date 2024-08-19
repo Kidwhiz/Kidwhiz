@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main () { 
+int length=4;
+int width=6;
+int area;
+//calculate the area of a rectangle 
+area=lenght * width;
+printf("length is ;%d\n",length);
+printf("width is ;%d|n",width);
+printf("area of the rectangle is :%d",area);
+return 0;
+}
